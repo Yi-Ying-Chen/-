@@ -11,7 +11,7 @@
             宿舍管理系統_管理員.Show()
             Me.Close()
         Else
-            MsgBox("帳號或密碼輸入錯誤!")
+            MsgBox("帳號或密碼輸入錯誤!!")
         End If
     End Sub
 End Class
